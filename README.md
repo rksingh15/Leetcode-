@@ -1,2 +1,2 @@
-# Leetcode-
+# Leetcode- and #GFG
 Solution 
